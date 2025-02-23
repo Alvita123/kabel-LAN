@@ -1,5 +1,10 @@
 # Sharing File Menggunakan Kabel-LAN
 
+Pastikan terdapat  2 laptop yang terhubung dengan kabel
+
+![image](https://github.com/user-attachments/assets/6f4bf4eb-c5a0-4aaf-8e4b-4d9aa485bcd3)
+
+
 1. Pertama-tama kita buka control panel dan matikan firewall
 
 ![image](https://github.com/user-attachments/assets/93a3aeec-b5ae-46f7-be27-90a3ae1bb917)
